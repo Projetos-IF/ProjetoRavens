@@ -1,0 +1,28 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "I69B3",
+      "url": "board-1-I69B3.png",
+      "newShot": false,
+      "lastEdited": 1594409884783,
+      "layers": {
+        "reference": {
+          "url": "board-1-I69B3-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 1759.419265378178,
+      "audio": {
+        "filename": "I69B3-Cena1.mp3",
+        "duration": 32000
+      }
+    }
+  ]
+}
