@@ -5,4 +5,7 @@ Lista Props
 • Relógio
 • Criado
 • Quadros (parede e criado)
-•  
+• Poltrona
+• Sala
+	• Janela
+	• Portas
