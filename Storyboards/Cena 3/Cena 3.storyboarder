@@ -1,0 +1,184 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": "5",
+  "boards": [
+    {
+      "uid": "CGM3H",
+      "url": "board-2-CGM3H.png",
+      "newShot": false,
+      "lastEdited": 1597324893714,
+      "layers": {
+        "reference": {
+          "url": "board-2-CGM3H-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-2-CGM3H-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-2-CGM3H-fill.png"
+        },
+        "tone": {
+          "url": "board-2-CGM3H-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-CGM3H-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-CGM3H-ink.png"
+        },
+        "notes": {
+          "url": "board-2-CGM3H-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "duration": 1120
+    },
+    {
+      "uid": "OJXTE",
+      "url": "board-3-OJXTE.png",
+      "newShot": false,
+      "lastEdited": 1597324893982,
+      "layers": {
+        "reference": {
+          "url": "board-3-OJXTE-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-3-OJXTE-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-3-OJXTE-fill.png"
+        },
+        "tone": {
+          "url": "board-3-OJXTE-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-OJXTE-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-OJXTE-ink.png"
+        },
+        "notes": {
+          "url": "board-3-OJXTE-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 1120,
+      "duration": 2960
+    },
+    {
+      "uid": "E8QNA",
+      "url": "board-4-E8QNA.png",
+      "newShot": false,
+      "lastEdited": 1597324894230,
+      "layers": {
+        "reference": {
+          "url": "board-4-E8QNA-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-4-E8QNA-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-4-E8QNA-fill.png"
+        },
+        "tone": {
+          "url": "board-4-E8QNA-tone.png"
+        },
+        "pencil": {
+          "url": "board-4-E8QNA-pencil.png"
+        },
+        "ink": {
+          "url": "board-4-E8QNA-ink.png"
+        },
+        "notes": {
+          "url": "board-4-E8QNA-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4080,
+      "duration": 1460
+    },
+    {
+      "uid": "CQ41D",
+      "url": "board-4-CQ41D.png",
+      "newShot": false,
+      "lastEdited": 1597324903076,
+      "layers": {
+        "reference": {
+          "url": "board-4-CQ41D-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-4-CQ41D-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-4-CQ41D-fill.png"
+        },
+        "tone": {
+          "url": "board-4-CQ41D-tone.png"
+        },
+        "pencil": {
+          "url": "board-4-CQ41D-pencil.png"
+        },
+        "ink": {
+          "url": "board-4-CQ41D-ink.png"
+        },
+        "notes": {
+          "url": "board-4-CQ41D-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 5540,
+      "duration": 1840
+    },
+    {
+      "uid": "ID849",
+      "url": "board-5-ID849.png",
+      "newShot": false,
+      "lastEdited": 1597324894438,
+      "layers": {
+        "reference": {
+          "url": "board-5-ID849-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-5-ID849-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-5-ID849-fill.png"
+        },
+        "tone": {
+          "url": "board-5-ID849-tone.png"
+        },
+        "pencil": {
+          "url": "board-5-ID849-pencil.png"
+        },
+        "ink": {
+          "url": "board-5-ID849-ink.png"
+        },
+        "notes": {
+          "url": "board-5-ID849-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 7380,
+      "lineMileage": 0,
+      "duration": 3650
+    }
+  ]
+}
