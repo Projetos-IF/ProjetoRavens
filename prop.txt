@@ -5,7 +5,7 @@ Lista Props
 #SÉCULO XIX#
 
 • Relógio (CONCLUÍDO - EDUARDA)
-• Criado (EM ANDAMENTO - GIOVANE)
+• Criado (CONCLUÍDO - GIOVANE)
 • Quadros (parede e criado) (EM ANDAMENTO - EDUARDA)
 • Poltrona (carol)
 • Sala 
@@ -15,3 +15,10 @@ Lista Props
 	• Troncos no chão (GIOVANE)
 	• Arbustos (carol)
 	• Pedras (carol)
+
+Lista personagens
+
+• ED (GIOVANE)
+	• Body - CONCLUÍDO
+	• Sobretudo - CONCLUÍDO
+	• Rigging - PENDENTE
