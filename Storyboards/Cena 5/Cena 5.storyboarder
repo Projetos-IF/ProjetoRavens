@@ -1,0 +1,103 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": "1000",
+  "boards": [
+    {
+      "layers": {
+        "reference": {
+          "url": "board-2-TM57J-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "TM57J",
+      "newShot": false,
+      "lastEdited": 1600271634280,
+      "url": "board-2-TM57J.png",
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "duration": 1550
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-2-T0CFA-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "T0CFA",
+      "newShot": false,
+      "lastEdited": 1600271668640,
+      "url": "board-2-T0CFA.png",
+      "number": 2,
+      "shot": "2A",
+      "time": 1550,
+      "duration": 2080
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-3-IJVS3-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "IJVS3",
+      "newShot": false,
+      "lastEdited": 1600271688785,
+      "url": "board-3-IJVS3.png",
+      "number": 3,
+      "shot": "3A",
+      "time": 3630
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-4-Y3O63-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "Y3O63",
+      "newShot": false,
+      "lastEdited": 1600271706542,
+      "url": "board-4-Y3O63.png",
+      "number": 4,
+      "shot": "4A",
+      "time": 4630,
+      "duration": 1520
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-5-GATBV-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "GATBV",
+      "newShot": false,
+      "lastEdited": 1600271725075,
+      "url": "board-5-GATBV.png",
+      "number": 5,
+      "shot": "5A",
+      "time": 6150,
+      "duration": 2110
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-6-ARYPS-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "uid": "ARYPS",
+      "newShot": false,
+      "lastEdited": 1600271743600,
+      "url": "board-6-ARYPS.png",
+      "number": 6,
+      "shot": "6A",
+      "time": 8260,
+      "duration": 3630
+    }
+  ]
+}

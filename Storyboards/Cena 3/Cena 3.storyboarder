@@ -2,7 +2,7 @@
   "version": "2.0.1",
   "aspectRatio": "1.7777777777777777",
   "fps": 24,
-  "defaultBoardTiming": "5",
+  "defaultBoardTiming": "1000",
   "boards": [
     {
       "uid": "CGM3H",
@@ -37,7 +37,11 @@
       "number": 1,
       "shot": "1A",
       "time": 0,
-      "duration": 1120
+      "duration": 1160,
+      "audio": {
+        "filename": "CGM3H-Cena3.mp3",
+        "duration": 65528.375
+      }
     },
     {
       "uid": "OJXTE",
@@ -71,8 +75,8 @@
       },
       "number": 2,
       "shot": "2A",
-      "time": 1120,
-      "duration": 2960
+      "time": 1160,
+      "duration": 3230
     },
     {
       "uid": "E8QNA",
@@ -106,8 +110,9 @@
       },
       "number": 3,
       "shot": "3A",
-      "time": 4080,
-      "duration": 1460
+      "time": 4390,
+      "duration": 2700,
+      "lineMileage": 0
     },
     {
       "uid": "CQ41D",
@@ -141,8 +146,8 @@
       },
       "number": 4,
       "shot": "4A",
-      "time": 5540,
-      "duration": 1840
+      "time": 7090,
+      "duration": 1450
     },
     {
       "uid": "ID849",
@@ -176,9 +181,188 @@
       },
       "number": 5,
       "shot": "5A",
-      "time": 7380,
+      "time": 8540,
       "lineMileage": 0,
-      "duration": 3650
+      "duration": 2590
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-7-073CE-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-7-073CE-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-7-073CE-fill.png"
+        },
+        "tone": {
+          "url": "board-7-073CE-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-073CE-pencil.png"
+        },
+        "ink": {
+          "url": "board-7-073CE-ink.png"
+        },
+        "notes": {
+          "url": "board-7-073CE-notes.png"
+        }
+      },
+      "uid": "073CE",
+      "newShot": false,
+      "lastEdited": 1599227468949,
+      "url": "board-7-073CE.png",
+      "number": 6,
+      "shot": "6A",
+      "time": 11130,
+      "duration": 3370,
+      "lineMileage": 178.1826263704874,
+      "link": "board-7-073CE.psd"
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-7-I0DB1-reference.png",
+          "opacity": 1
+        }
+      },
+      "uid": "I0DB1",
+      "newShot": false,
+      "lastEdited": 1599227602311,
+      "url": "board-7-I0DB1.png",
+      "number": 7,
+      "shot": "7A",
+      "time": 14500,
+      "duration": 3960,
+      "lineMileage": 178.1826263704874,
+      "link": "board-7-I0DB1.psd"
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-5-MUKBB-reference.png",
+          "opacity": 1
+        }
+      },
+      "uid": "MUKBB",
+      "newShot": false,
+      "lastEdited": 1599075882214,
+      "url": "board-5-MUKBB.png",
+      "number": 8,
+      "shot": "8A",
+      "time": 18460,
+      "lineMileage": 0,
+      "link": "board-5-MUKBB.psd",
+      "duration": 1360
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-7-3UAN3-reference.png",
+          "opacity": 1
+        }
+      },
+      "uid": "3UAN3",
+      "newShot": false,
+      "lastEdited": 1599076097852,
+      "url": "board-7-3UAN3.png",
+      "number": 9,
+      "shot": "9A",
+      "time": 19820,
+      "link": "board-7-3UAN3.psd",
+      "duration": 1880
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-8-AMAVI-reference.png",
+          "opacity": 1
+        }
+      },
+      "uid": "AMAVI",
+      "newShot": false,
+      "lastEdited": 1599076112659,
+      "url": "board-8-AMAVI.png",
+      "number": 10,
+      "shot": "10A",
+      "time": 21700,
+      "link": "board-8-AMAVI.psd",
+      "duration": 1620
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-9-3P24A-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-9-3P24A-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-9-3P24A-fill.png"
+        },
+        "tone": {
+          "url": "board-9-3P24A-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-3P24A-pencil.png"
+        },
+        "ink": {
+          "url": "board-9-3P24A-ink.png"
+        },
+        "notes": {
+          "url": "board-9-3P24A-notes.png"
+        }
+      },
+      "uid": "3P24A",
+      "newShot": false,
+      "lastEdited": 1599076343557,
+      "url": "board-9-3P24A.png",
+      "number": 11,
+      "shot": "11A",
+      "time": 23320,
+      "duration": 940,
+      "lineMileage": 0
+    },
+    {
+      "layers": {
+        "reference": {
+          "url": "board-10-VQCAT-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-10-VQCAT-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-10-VQCAT-fill.png"
+        },
+        "tone": {
+          "url": "board-10-VQCAT-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-VQCAT-pencil.png"
+        },
+        "ink": {
+          "url": "board-10-VQCAT-ink.png"
+        },
+        "notes": {
+          "url": "board-10-VQCAT-notes.png"
+        }
+      },
+      "uid": "VQCAT",
+      "newShot": false,
+      "lastEdited": 1599076397411,
+      "url": "board-10-VQCAT.png",
+      "number": 12,
+      "shot": "12A",
+      "time": 24260,
+      "duration": 1720,
+      "lineMileage": 0
     }
   ]
 }
